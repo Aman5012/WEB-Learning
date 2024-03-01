@@ -1,0 +1,21 @@
+p{
+    font-style: italic;
+    background-color: black;
+    font-size: large;
+    font-optical-sizing: revert-layer;
+}
+h1{
+    background-color: aqua;
+}
+summary{
+    background-color: rgb(212, 223, 54);
+    font-display: rgb(229, 222, 32);
+}
+details{
+    color: rgb(118, 29, 242);
+    font-style: italic, oblique;
+    background-color: beige;
+}
+body{
+    background-color: rgb(84, 89, 100);
+}
